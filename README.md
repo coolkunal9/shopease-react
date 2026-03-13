@@ -42,7 +42,7 @@ shopease/
 
 ## 🌐 Live Demo
 
-[View Live →](https://shopease-react.vercel.app)
+[View Live →](https://shopease-react-nine.vercel.app/)
 
 ## 👤 Author
 
